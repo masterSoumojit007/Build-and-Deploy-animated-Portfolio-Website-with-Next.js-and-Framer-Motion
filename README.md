@@ -1,15 +1,3 @@
-
-Sure, here's a sample GitHub README file for building and deploying an animated portfolio website using Next.js and Framer Motion:
-
-Animated Portfolio Website with Next.js and Framer Motion
-This project demonstrates how to create an animated portfolio website using Next.js and Framer Motion. The website features smooth animations and transitions to enhance user experience.
-
-Features
-Smooth Animations: Utilizes Framer Motion to create smooth animations for various components and transitions.
-Next.js: Built with Next.js for server-side rendering, routing, and optimized performance.
-Responsive Design: Ensures the website looks great on all devices, thanks to responsive design practices.
-Dynamic Content: Easily customizable content, including project cards, skills sections, and more.
-Deployment: Instructions for deploying the website to popular hosting platforms like Vercel or Netlify.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
